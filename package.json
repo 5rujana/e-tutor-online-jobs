@@ -1,0 +1,17 @@
+{
+  "name": "e-tutor-online-jobs",
+  "version": "1.0.0",
+  "description": "A platform for jookseekers and employers",
+  "type": "module",
+  "main": "index.js",
+  "start": "node index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Ch. Srujana Gayatri",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+  }
+}
